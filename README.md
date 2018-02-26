@@ -3,9 +3,9 @@
 
 Itś a project about a autonomous book translator. Open to all peoples, and free to use in the most of cases.
 
-I spoke english and portuguese, if ou had any question, just ask. :)
+I speak english and portuguese, if you have any question, just ask. :)
 
-I will use pthon to wrote the program.
+I will use python to wrote the program.
 
 I need to do 2 things:
   1 - A tool to pre processing the data to turn useful the algorithm.
@@ -15,7 +15,7 @@ I need to do 2 things:
 
 É um projeto sobre um tradutor de livros autônomo. Aberto a todos os povos e livre de usar na maioria dos casos.
 
-Falei inglês e português, se você tivesse alguma dúvida, basta perguntar. :)
+Eu falo inglês e português, se você tiver alguma dúvida, basta perguntar. :)
 
 Eu usarei o python para escrever o programa.
 
